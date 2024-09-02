@@ -1,0 +1,1 @@
+[{"factura": "F01", "Fecha": "2024-09-01", "cliente": "Francisco Ronquillo", "subtotal": 48.0, "descuento": 4.800000000000001, "iva": 5.18, "total": 48.38, "detalle": [{"producto": "Pera", "precio": 0.5, "cantidad": 20}, {"producto": "Uva", "precio": 0.95, "cantidad": 40}]}]
